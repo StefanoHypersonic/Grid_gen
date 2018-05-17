@@ -1,3 +1,2 @@
-# Grid_gen
-The following code are useful for CFD application, for now I am going to upload codes related structured meshing of various domain typical 
-of turbomachinery application. Enjoy :)
+# CFD_Propulsion_system
+The following code is a  useful  demo for a future CFD code, that should solve with structured meshing, obtained through conformal transformation, common nozzle and blades configuration including shock waves. The code will be based on Godunov type approach vs classical difference schemes.
