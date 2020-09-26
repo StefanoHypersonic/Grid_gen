@@ -1,2 +1,2 @@
-# CFD_Propulsion_system
-The following code is a  useful  demo for a future CFD code, that should solve with structured meshing, obtained through conformal transformation, common nozzle and blades configuration including shock waves. The code will be based on Godunov type approach vs classical difference schemes.
+# Structured grid generator for nozzle and machinery blades
+The following code is a  useful mesh generator demo for a future CFD code. The structured meshes are generated through conformal transformation, applied to common nozzle and blades configuration. 
